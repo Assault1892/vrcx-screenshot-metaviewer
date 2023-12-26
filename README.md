@@ -1,0 +1,2 @@
+# vrcx-screenshot-metaviewer
+VRCXのScreenshot Helperによって書かれたDescriptionを表示していい感じに整形するだけのコード
